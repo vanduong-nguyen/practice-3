@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+.mau{
+    color: aqua;
+}
+.size1{
+    font-size: 60px;
+    font-family: "Arial";
+    font-weight: bold;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.size2{
+    font-size: 15px;
+    font-weight: lighter;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.button{
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.button:hover{
+    color: black ;
+    background-color: aliceblue;
+}
